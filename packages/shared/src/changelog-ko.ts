@@ -46,6 +46,7 @@ export const koEntries: ChangelogEntry[] = [
     version: "0.15.9",
     date: "2026-09-27",
     highlights: [
+      "설정에서 데이터 저장 위치를 지정하고 이전 진행률을 확인하며 재생성 가능한 캐시를 안전하게 정리하세요.",
       "macOS DMG 및 ZIP 패키지에서 오래된 첫 실행 도우미 파일을 제거합니다.",
     ],
   },
